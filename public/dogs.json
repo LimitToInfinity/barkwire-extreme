@@ -1,0 +1,15 @@
+{
+    "dogs": [{
+        "id": 1,
+        "name": "Bixby",
+        "imageUrl": "https://www.washingtonpost.com/resizer/kPkFQsQjvSIjfXG-mFXDEpxq6-4=/767x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HB4AT3D3IMI6TMPTWIZ74WAR54.jpg"
+    },{ 
+        "id": 2,
+        "name": "Mesa",
+        "imageUrl": "https://www.medicalnewstoday.com/content/images/articles/322/322868/golden-retriever-puppy.jpg"
+    },{ 
+        "id": 3,
+        "name": "Cactus",
+        "imageUrl": "https://image.cnbcfm.com/api/v1/image/105992231-1561667465295gettyimages-521697453.jpeg?v=1561667497"
+    }]
+}
